@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">FragementDemo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+   <string name="abd">
+
+       Sarkar_Abdullah.\n
+       Born in 20th July 1998.\n
+       From Sujapur,Sirajganj.\n
+       Reads in University Of Daffodil International.\n
+       Subject in Computer Science Engineering.\n
+
+   </string>
+
+    <string name="shimu">
+
+       Sarkar_Shimu.\n
+       Born in 12th march 2002.\n
+       From RN Road,Jashore.\n
+       Reads in MM College.\n
+       Subject in Finance Banking.\n
+
+   </string>
+
+</resources>
